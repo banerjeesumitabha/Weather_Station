@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Station</string>
+    <string name="instruction">Tap the button to view the list of your Paired Devices. Make sure that target device is already paired.</string>
+</resources>
